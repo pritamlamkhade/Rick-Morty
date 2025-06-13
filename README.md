@@ -27,4 +27,14 @@ A Single Page Application (SPA) built with React, TypeScript, and TanStack libra
 - Tailwind CSS
 - Parcel (bundler)
 
+## Steps to Run Locally
+- Clone the Repository
+     git clone https://github.com/pritamlamkhade/Rick-Morty.git
+- Install Dependencies. Make sure you have Node.js installed. 
+    npm install
+- Run the Development Server
+   npm start
+- This will start the app at:
+    http://localhost:1234
+- Open your browser and visit http://localhost:1234 to see the application in action.
 
